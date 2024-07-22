@@ -7,6 +7,9 @@ As a data and business analyst with strong fundamentals in business and marketin
 # Action
 To execute this project, I  systematically collect, clean, and organize customer shopping data within Excel. I used Excel one of the popular and powerful data analysis tools, including pivot tables, charts, and conditional formatting, to create a dynamic and interactive dashboard. This will involve aggregating data on customer demographics, purchase dates, values, payment methods, time spent on the platform, browser usage, and the influence of newsletters and vouchers. I  also apply my expertise in business and marketing strategies to interpret the data, uncover trends, and identify key insights. The final dashboard will be designed to be user-friendly, enabling stakeholders to easily monitor performance metrics, track promotional effectiveness, and make data-driven decisions to optimize marketing efforts and enhance customer satisfaction.The Preview of the dashboard is available below.
 
+![Excel online shopping](https://github.com/user-attachments/assets/9f1f5e13-272d-4437-ad39-065db47fc979)
+
+
 
 
 
